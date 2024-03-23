@@ -1,1 +1,1 @@
-React-js Micro-Frontend-Module-Federation
+Build Micro-Frontend React-js app using Module Federation - Webpack
